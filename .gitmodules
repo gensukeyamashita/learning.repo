@@ -1,0 +1,3 @@
+[submodule "AddressIndexer"]
+	path = AddressIndexer
+	url = https://github.com/gensukeyamashita/AddressIndexer.git
